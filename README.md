@@ -44,4 +44,9 @@ Reproduction of John Horton Conway's Game of Life in C
 ## Rules
   ![image](https://github.com/user-attachments/assets/6e458498-50a4-44c0-b048-e86015ecf074)
 
+## Collaborations 
+  João Alfredo </br>
+  João Guilherme Costa Couto </br>
+  Luis Augusto Coelho de Souza </br>
+  Matheus Heimrath Barbosa </br>
 
